@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheIcefall
 - 👀 I’m interested in using Python for financial analysis and trading.
-- 🌱 I’m currently learning computer science.
+- 🌱 I’m currently studying computer science and commerce.
 - 📫 Reach me via LinkedIn at https://www.linkedin.com/in/gabrieltucker1/.
 
 <!---
