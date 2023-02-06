@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheIcefall
-- 👀 I’m interested in using Python for financial analysis and trading financial markets.
-- 🌱 I’m currently studying a double bachelors degree, in Computer Science (Advanced computer science) and Commerce (Econometrics), at Monash University in Melbourne, Australia.
+- 🌱 I’m currently studying a double bachelors degree, in Computer Science and Commerce.
 
 <!---
 TheIcefall/TheIcefall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
